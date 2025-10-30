@@ -3,7 +3,7 @@ import React from 'react'
 function yaswant() {
   return (
     <div>
-      iam a good boy
+      yaswanth is a good boy 
     </div>
   )
 }
