@@ -3,7 +3,7 @@ import React from 'react'
 function yaswant() {
   return (
     <div>
-      "good boy"
+      "good boy , you are lucky"
     </div>
   )
 }
